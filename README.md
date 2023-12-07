@@ -14,4 +14,5 @@ More data is available in the 'data' folder to test the code.
 Input image
 Face Detection with Pretrained/hd.jpg
 Output
+<br>
 <img width="398" alt="Capture" src="https://github.com/umaima476/Blur-Face-AI/assets/59387036/1a306972-42a5-49ab-be9b-00b867ad0457">
